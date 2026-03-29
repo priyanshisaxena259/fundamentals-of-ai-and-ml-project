@@ -1,4 +1,4 @@
-# Graph (city connections with cost)
+# Graph
 graph = {
     'Delhi': [('Bhopal', 10), ('Jaipur', 8)],
     'Bhopal': [('Indore', 5), ('Nagpur', 7)],
@@ -8,7 +8,7 @@ graph = {
     'Mumbai': []
 }
 
-# Heuristic values (estimated distance to goal)
+# Heuristic values
 heuristic = {
     'Delhi': 15,
     'Bhopal': 10,
