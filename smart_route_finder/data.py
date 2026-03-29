@@ -4,7 +4,7 @@ from visualize import visualize_graph
 
 def a_star(start, goal):
     open_list = []
-    heapq.heappush(open_list, (0, start, 0, []))  # (f, node, g, path)
+    heapq.heappush(open_list, (0, start, 0, []))
 
     visited = set()
 
@@ -50,5 +50,4 @@ if path:
 else:
     print("No path found!")
 
-# Visualization
 visualize_graph(path)
