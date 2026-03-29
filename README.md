@@ -16,6 +16,7 @@ This project uses the A-star (A*) search algorithm to find the shortest path bet
 - Python 
 - NetworkX
 - Matplotlib
+- Heapq
 
 ---
 
