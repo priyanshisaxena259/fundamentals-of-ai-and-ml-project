@@ -1,7 +1,7 @@
 # Smart Route Finder using A* Algorithm
 
 ## Overview
-This project uses the A-star (A*) search algorithm to find the shortest path between cities using heuristic based search.
+This project uses the A star (A*) search algorithm to find the shortest path between cities using heuristic based search.
 
 ---
 
@@ -25,7 +25,7 @@ This project uses the A-star (A*) search algorithm to find the shortest path bet
    pip install -r requirements.txt
 
 2. Run the program:
-   python main.py
+   python data.py
 
 ---
 
